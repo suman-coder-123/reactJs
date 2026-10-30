@@ -1,0 +1,22 @@
+react => component based architecture 
+
+
+we create component => 
+to run this component => import and export 
+
+component calling => import 
+component create => export 
+
+
+
+component => small piece of UI 
+divided the project into multiple parts 
+
+
+.jsx => both javascript and HTML 
+
+javascriptXML
+
+
+
+to pass the from one component to another component => props (properties)
